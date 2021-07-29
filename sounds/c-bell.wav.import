@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/c-bell.wav-04c5871df0a2cc226a3339e4ae871eab.sample"
+
+[deps]
+
+source_file="res://sounds/c-bell.wav"
+dest_files=[ "res://.import/c-bell.wav-04c5871df0a2cc226a3339e4ae871eab.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

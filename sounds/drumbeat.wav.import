@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/drumbeat.wav-3857b785bf41f5d09a057b2a0575ee07.sample"
+
+[deps]
+
+source_file="res://sounds/drumbeat.wav"
+dest_files=[ "res://.import/drumbeat.wav-3857b785bf41f5d09a057b2a0575ee07.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
