@@ -1,5 +1,6 @@
 # pata-beat
 Rhythm based input engine similiar to the game Patapon
+![Patapon](https://thumbs.gfycat.com/FemaleEthicalBuck-size_restricted.gif)
 
 ## Installation
 In order to run this project you need the [Godot Engine v3.3.2](https://godotengine.org/download/windows) installed.
