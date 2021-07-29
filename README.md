@@ -10,4 +10,5 @@ After that import the game in the project view.
 The code in this repository falls under the [MIT-License](https://github.com/distrustME/pata-beat/blob/master/LICENSE).
 
 ### Assets
-* [NESCyrillic Font](http://www.pentacom.jp/pentacom/bitfontmaker2/gallery/?id=234)
+* [NESCyrillic - Font](http://www.pentacom.jp/pentacom/bitfontmaker2/gallery/?id=234)
+* [Bosca Ceoil - Audio](https://boscaceoil.net/)
