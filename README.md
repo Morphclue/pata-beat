@@ -1,6 +1,7 @@
 ![example workflow](https://github.com/distrustME/pata-beat/actions/workflows/build.yml/badge.svg)
 # pata-beat
-Rhythm based input engine similiar to the game Patapon
+Rhythm based input engine similiar to the game Patapon.
+
 ![Patapon](https://thumbs.gfycat.com/FemaleEthicalBuck-size_restricted.gif)
 
 ## Installation
